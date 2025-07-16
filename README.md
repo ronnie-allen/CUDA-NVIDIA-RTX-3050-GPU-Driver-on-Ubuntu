@@ -1,6 +1,6 @@
-# 🚀 Full Guide: Installing NVIDIA RTX 3050, CUDA 12.8 & cuDNN 8.9.7 on Ubuntu 22.04
+# 🚀 Full Guide: Installing NVIDIA RTX 4050, CUDA 12.8 & cuDNN 8.9.7 on Ubuntu 22.04
 
-This guide ensures your system is ready for **deep learning**, **GPU acceleration**, and **high-performance computing** using the **NVIDIA RTX 3050**.
+This guide ensures your system is ready for **deep learning**, **GPU acceleration**, and **high-performance computing** using the **NVIDIA RTX 4050**.
 
 ----------
 
@@ -8,7 +8,7 @@ This guide ensures your system is ready for **deep learning**, **GPU acceleratio
 
 -   Ubuntu 22.04 (or newer)
     
--   RTX 3050 GPU
+-   RTX 4050 GPU
     
 -   Internet connection
     
@@ -131,7 +131,7 @@ You should see output like this:
 
 ```
 
-Congrats! You're running NVIDIA RTX 3050 successfully on Ubuntu 🎉
+Congrats! You're running NVIDIA RTX 4050 successfully on Ubuntu 🎉
 
 
 🔍 **Why?**  
@@ -276,7 +276,7 @@ To confirm your ML code can now access the GPU for training or inference.
 
 ## 🔌 Pro Tip: Keep Charger Plugged In
 
-Laptop GPUs like RTX 3050 may **disable themselves** on battery to save power.  
+Laptop GPUs like RTX 4050 may **disable themselves** on battery to save power.  
 👉 Always keep the **charger connected** during GPU-intensive tasks.
 
 ----------
